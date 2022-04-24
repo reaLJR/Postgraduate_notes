@@ -1,2 +1,2 @@
-# Postgraduate_notes
+# 20 postgraduate notes
 This repository stores my material and notes when I'm preparing the postgraduate entrance exam.
