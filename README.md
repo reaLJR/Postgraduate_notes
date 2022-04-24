@@ -1,5 +1,5 @@
 # 2023 postgraduate notes
-This repository stores my material and notes when I'm preparing the postgraduate entrance exam. It is open source and if you have relevent contents, welcome to join me and share with us. Hope everyone can get a good score and enter your ideal university!
+This repository stores my material and notes when I'm preparing for the postgraduate entrance exam. It is open source and if you have relevent contents, welcome to join me and share with us. Hope everyone can get a good score and enter your ideal university!
 
 ## Mathematics
 * first stage(April-)
